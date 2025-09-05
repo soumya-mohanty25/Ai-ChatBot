@@ -1,0 +1,7 @@
+com\example\aichatbot\service\Ai_chatbotService.class
+com\example\aichatbot\controller\Ai_chatbotController.class
+com\example\aichatbot\AiChatBotApplication.class
+com\example\aichatbot\model\Ai_chatbot.class
+com\example\aichatbot\service\Ai_chatbotServiceImpl.class
+com\example\aichatbot\config\SecurityConfig.class
+com\example\aichatbot\repository\Ai_chatbotRepository.class
