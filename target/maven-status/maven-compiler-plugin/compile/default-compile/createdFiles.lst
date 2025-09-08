@@ -1,4 +1,6 @@
+com\example\aichatbot\service\OllamaChatModel$1.class
 com\example\aichatbot\service\DatabaseService.class
+com\example\aichatbot\service\OllamaChatModel.class
 com\example\aichatbot\service\Ai_chatbotService.class
 com\example\aichatbot\controller\Ai_chatbotController.class
 com\example\aichatbot\AiChatBotApplication.class

@@ -3,6 +3,7 @@ package com.example.aichatbot.service;
 import java.util.Map;
 
 import org.springframework.ai.openai.OpenAiChatModel;
+// import org.springframework.ai.openai.OpenAiChatModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -25,6 +26,7 @@ public class Ai_chatbotService {
 
      public Object askDatabase(String question) {
         String schema = databaseService.generateSchemaPrompt();
+
         String prompt = """
             You are a SQL assistant. Convert the following natural language question into a valid PostgreSQL SQL query.
 
